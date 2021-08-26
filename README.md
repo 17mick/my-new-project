@@ -1,2 +1,2 @@
 # my-new-project
-building ai
+painting with ai
